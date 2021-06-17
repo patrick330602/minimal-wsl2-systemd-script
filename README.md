@@ -6,4 +6,6 @@ This script only includes the following:
 - add `systemd` support
 - add classic snap support
 
+The script should be running as root. 
+
 That's it.
